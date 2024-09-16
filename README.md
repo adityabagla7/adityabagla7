@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vidit Jain</h1>
+<h1 align="center">Hi 👋, I'm Aditya Bagla</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/adityabagla7](https://github.com/adityabagla7)
