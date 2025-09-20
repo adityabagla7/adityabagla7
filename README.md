@@ -3,7 +3,7 @@
 
 - Portfolio web: https://aditya-bagla-devfolio.vercel.app/
 - 👨‍💻 All of my projects are available at [https://github.com/adityabagla7](https://github.com/adityabagla7)
-- 📫 How to reach me **adityabagla0044@gmail.com**
+- 📫 How to reach me **adityabaglaa18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
