@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Bagla</h1>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 * 🌐 Portfolio: https://aditya-bagla-devfolio.vercel.app/
 * 👨‍💻 All of my projects: https://github.com/adityabagla7
